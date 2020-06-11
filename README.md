@@ -1,2 +1,2 @@
-# Week_7_GoLang_Example
-GoLang example on how search algorithms work
+# Ejemplos_Clase_Datos_II
+GoLang example on how search algorithms work, LCS and other examples
